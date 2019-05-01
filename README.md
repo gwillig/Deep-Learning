@@ -2,8 +2,8 @@
 The focus of the project was to use transfer learning for face recognition.
 
 ## How to run
-* Download of clone the folder
-* Open the Face_Reg_Gustav_Willig.ipynb. You need IPython Notebook to open the file. 
+1. Download of clone the folder
+2. Open the Face_Reg_Gustav_Willig.ipynb file with Juypter-Notebook. 
 
 ## License
 The MIT License (MIT)
